@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Utah, US",
+  "export_job_id": "f5179933-9eec-48be-9d57-234b82955385",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 881222,
+  "location_name": "Utah",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-utah-us-sample-881222",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/881222/beamstation_881222_restaurants-us-ut_SAMPLE_DIST.csv",
+  "sample_pct": 7.69,
+  "sample_records": 3,
+  "sample_sha256": "db3fd0d3f28ffe6ad1221fe88d8cd236fff3f72ef9abd619135085901b361ca9",
+  "sample_size_bytes": 27115,
+  "total_records": 39,
+  "updated_at": "2026-04-09T20:46:08.739697+00:00"
+}
