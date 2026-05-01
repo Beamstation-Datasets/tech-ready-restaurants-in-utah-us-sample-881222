@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e5ff8b3c-dff8-4bcf-8326-94e561f47938",
+  "export_job_id": "2fd461bd-10bc-42bd-aa2f-46b2f776ad8a",
   "id_short": 881222,
-  "published_at": "2026-04-23T19:50:32Z",
+  "published_at": "2026-05-01T19:06:23Z",
   "repo_name": "tech-ready-restaurants-in-utah-us-sample-881222",
   "sample_asset_name": "beamstation_881222_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/881222/beamstation_881222_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "3e082a219fc748431ff629115ae48d8fa738d02a2dbb494a8a33d1da6daea8e0",
-  "sample_size_bytes": 24319,
-  "total_records": 20
+  "sample_records": 21,
+  "sample_sha256": "b39686ccede1c1f6aa05b502d0c8f5ecd15c677ca86c77c1754db54cdedd2e4e",
+  "sample_size_bytes": 94746,
+  "total_records": 214
 }
